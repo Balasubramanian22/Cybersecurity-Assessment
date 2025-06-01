@@ -22,4 +22,6 @@ The script scores the password out of 5:
 - 5: Strong Password
 
 ## 🧪 Sample Run
-
+```Enter your password: MyP@ssw0rd
+Password Score: 5/5
+Assessment: Strong password```
