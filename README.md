@@ -21,7 +21,13 @@ The script scores the password out of 5:
 - 3–4: Moderate Password
 - 5: Strong Password
 
-## 🧪 Sample Run
-```Enter your password: MyP@ssw0rd
-Password Score: 5/5
-Assessment: Strong password```
+
+## 🛠 Requirements
+
+No external libraries needed. Works with **Python 3.x**
+
+## 📝 How to Run
+
+```bash
+python password_strength_checker.py
+
